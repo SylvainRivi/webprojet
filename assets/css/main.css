@@ -1721,6 +1721,10 @@
 			display: block;
 			width: 100%;
 		}
+		.image.fit1 {
+			display: block;
+			width: 70%;
+		}
 
 		.image.featured {
 			display: block;
